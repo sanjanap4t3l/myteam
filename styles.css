@@ -1,0 +1,22 @@
+h1 { 
+    color:navy
+}
+
+h1.display-4 { 
+    padding: 100px;
+    color: white
+}
+
+.navbar-dark .navbar-brand { 
+    color:orange
+}
+
+.jumbotron { 
+    background-image: url(12941706.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.logo { 
+    height: 50px;
+}
